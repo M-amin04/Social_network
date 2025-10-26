@@ -15,7 +15,7 @@
 1. ریپوی گیت‌هاب را کلون کن:
 
 ```bash
-git clone https://github.com/LEMOONAD/social-network
+git clone https://github.com/M-amin04/social-network
 cd social-network-tk
 
 pip install -r requirements.txt
